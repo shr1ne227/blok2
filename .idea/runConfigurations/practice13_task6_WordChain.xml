@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П13 З6 WordChain" type="Application" factoryName="Application" folderName="Практика 13">
+    <option name="MAIN_CLASS_NAME" value="practice13.task6.WordChain" />
+    <module name="blok2" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

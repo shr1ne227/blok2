@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П9 З1 InsertionSortTest" type="Application" factoryName="Application" folderName="Практика 9">
+    <option name="MAIN_CLASS_NAME" value="practice9.task1.InsertionSortTest" />
+    <module name="blok2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

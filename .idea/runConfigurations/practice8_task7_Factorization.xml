@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П8 З7 Factorization" type="Application" factoryName="Application" folderName="Практика 8">
+    <option name="MAIN_CLASS_NAME" value="practice8.task7.Factorization" />
+    <module name="blok2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П10 З2 SortingStudentsByGPA" type="Application" factoryName="Application" folderName="Практика 10">
+    <option name="MAIN_CLASS_NAME" value="practice10.task2.SortingStudentsByGPA" />
+    <module name="blok2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

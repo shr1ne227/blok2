@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П11 З2 DateCompare" type="Application" factoryName="Application" folderName="Практика 11">
+    <option name="MAIN_CLASS_NAME" value="practice11.task2.DateCompare" />
+    <module name="blok2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

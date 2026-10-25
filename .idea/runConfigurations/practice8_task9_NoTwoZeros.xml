@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П8 З9 NoTwoZeros" type="Application" factoryName="Application" folderName="Практика 8">
+    <option name="MAIN_CLASS_NAME" value="practice8.task9.NoTwoZeros" />
+    <module name="blok2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
